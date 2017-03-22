@@ -1,4 +1,2 @@
 # DataVis
-This is where I will upload my data visualization work to. 
-
-[Lehigh](http://www1.lehigh.edu/insidelehigh)
+This is where I keep some of my data visualization work at [Lehigh](http:www1.lehigh.edu/insidelehigh)
