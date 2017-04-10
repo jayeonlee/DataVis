@@ -1,6 +1,9 @@
 # Hi, I am Janey Lee
 I work at [Lehigh](http:www1.lehigh.edu/insidelehigh). This is where I keep some of my data visualization work. 
 
+Bar chart 
+![title](https://github.com/jayeonlee/data-visualization/blob/master/The%20World's%20Richest%20Countries.png?raw=true)
+
 
 Google Fusion Map
 
