@@ -2,8 +2,8 @@
 I work at [Lehigh](http:www1.lehigh.edu/insidelehigh). This is where I keep some of my data visualization work. 
 
 Timeline
-<iframe src="https://docs.google.com/spreadsheets/d/1cAwRYRnGDNhqO8otagQ22A4Y03JexuY_CdsJyd3p138/pubhtml?widget=true&amp;headers=false"></iframe>
-
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1cAwRYRnGDNhqO8otagQ22A4Y03JexuY_CdsJyd3p138&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+                                
 Bar chart 
 ![title](https://github.com/jayeonlee/data-visualization/blob/master/The%20World's%20Richest%20Countries.png?raw=true)
 
